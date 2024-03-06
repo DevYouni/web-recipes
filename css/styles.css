@@ -1,0 +1,33 @@
+body {
+    background-color: blanchedalmond;
+}
+
+* {
+    font-family: fantasy, sans-serif;
+}
+
+li {
+    font-size: 16px;
+    text-decoration: underline;
+    width: fit-content;
+    padding-bottom: 10px;
+}
+
+.recipe-element {
+    border: 1px solid black;
+    width: fit-content;
+    height: auto;
+    background-color: rgb(192, 105, 47);
+    margin: 5px;
+}
+
+.recipe-element h2 {
+    text-align: center;
+}
+
+strong {
+    color: black;
+    font-size: 18px;
+}
+
+
